@@ -1,0 +1,23 @@
+#sidbar {
+	height: 100%;
+	width: 20%;
+	background-color: black;
+	position: fixed;
+	left: 0%;
+	top: 0%;
+}
+
+#sidbar a {
+	color: white;
+	margin: 10px;
+	padding: 10px;
+}
+
+#sidbar a:hover {
+	color: aqua;
+}
+
+#main {
+	padding-left: 25%;
+	margin-top: 0%;
+}
